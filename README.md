@@ -1,6 +1,20 @@
 # MASTER RPG
 ## This app has a focus on help initial and advanced RPG master and player to setting up all they need to start a new campaign.
 
+<!-- TOC -->
+
+- [MASTER RPG](#master-rpg)
+    - [This app has a focus on help initial and advanced RPG master and player to setting up all they need to start a new campaign.](#this-app-has-a-focus-on-help-initial-and-advanced-rpg-master-and-player-to-setting-up-all-they-need-to-start-a-new-campaign)
+        - [App's flow:](#apps-flow)
+            - [Master's choice flow](#masters-choice-flow)
+                - [At Master's main screen](#at-masters-main-screen)
+                    - [Creating NPCs](#creating-npcs)
+                    - [Summoning you player](#summoning-you-player)
+                    - [Creating a test or chanlenge](#creating-a-test-or-chanlenge)
+                    - [Creating a Combat](#creating-a-combat)
+
+<!-- /TOC -->
+
 ### App's flow:
 1. Login with e-mail or Social Media (Facebook or Twitter);
 2. Choose your game mode: Master or player
