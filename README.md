@@ -1,6 +1,9 @@
 # MASTER RPG
 ## This app has a focus on help initial and advanced RPG master and player to setting up all they need to start a new campaign.
 
+### Index
+1. [Master's choice flow] (#Master's choice flow)
+
 ### App's flow:
 1. Login with e-mail or Social Media (Facebook or Twitter);
 2. Choose your game mode: Master or player
