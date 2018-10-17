@@ -5,21 +5,21 @@
 
 - [MASTER RPG](#master-rpg)
     - [This app has a focus on help initial and advanced RPG master and player to setting up all they need to start a new campaign.](#this-app-has-a-focus-on-help-initial-and-advanced-rpg-master-and-player-to-setting-up-all-they-need-to-start-a-new-campaign)
-        - [App's flow:](#apps-flow)
-            - [Master's choice flow](#masters-choice-flow)
-                - [At Master's main screen](#at-masters-main-screen)
-                    - [Creating NPCs](#creating-npcs)
-                    - [Summoning you player](#summoning-you-player)
-                    - [Creating a test or chanlenge](#creating-a-test-or-chanlenge)
-                    - [Creating a Combat](#creating-a-combat)
+- [App's flow:](#apps-flow)
+    - [Master's choice flow](#masters-choice-flow)
+        - [At Master's main screen](#at-masters-main-screen)
+            - [Creating NPCs](#creating-npcs)
+            - [Summoning you player](#summoning-you-player)
+            - [Creating a test or chanlenge](#creating-a-test-or-chanlenge)
+            - [Creating a Combat](#creating-a-combat)
 
 <!-- /TOC -->
 
-### App's flow:
+# App's flow:
 1. Login with e-mail or Social Media (Facebook or Twitter);
 2. Choose your game mode: Master or player
 
-#### Master's choice flow
+## Master's choice flow
 1. Choose your RPG system:
 * D&D (5 ED.);
 * Call of Cthulhu (7 ED.);
@@ -27,13 +27,13 @@
 * Shadowrun (5 ED.);
 2. Give you campaign a name.
 
-##### At Master's main screen
+### At Master's main screen
 1. Create NPCs;
 2. Summon players to your game;
 3. Create a test or a challenge;
 4. Create a Combat.
 
-###### Creating NPCs
+#### Creating NPCs
 - Based in the chosen RPG system will appear some attributes that the master will need to fill as:
 1. Character's name;
 2. Hit Point (HP);
@@ -42,16 +42,16 @@
 5. Equipments;
 6. Spells.
 
-###### Summoning you player
+#### Summoning you player
 - Create a QR Code and show to players to scan it or share it in your Social Media as message to them.
 
-###### Creating a test or chanlenge
+#### Creating a test or chanlenge
 1. Choose one or more players to make an test;
 2. Choose which skill or attributes they will use;
 3. Add the difficulty;
 4. Make a request to them;
 
-###### Creating a Combat
+#### Creating a Combat
 1. Create a combat list
 2. Choose one or more players whom will be envolved in the combat;
 3. Choose the enemy or enemies in monster's glossary;
