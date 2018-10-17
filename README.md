@@ -7,10 +7,10 @@
 
 #### Master's choice flow
 1. Choose your RPG system:
-..* D&D (5 ED.);
-..* Call of Cthulhu (7 ED.);
-..* Pathfinder (1 ED.);
-..* Shadowrun (5 ED.);
+* D&D (5 ED.);
+* Call of Cthulhu (7 ED.);
+* Pathfinder (1 ED.);
+* Shadowrun (5 ED.);
 2. Give you campaign a name.
 
 ##### At Master's main screen
