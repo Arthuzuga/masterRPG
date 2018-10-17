@@ -30,3 +30,19 @@
 
 ###### Summoning you player
 - Create a QR Code and show to players to scan it or share it in your Social Media as message to them.
+
+###### Creating a test or chanlenge
+1. Choose one or more players to make an test;
+2. Choose which skill or attributes they will use;
+3. Add the difficulty;
+4. Make a request to them;
+
+###### Creating a Combat
+1. Create a combat list
+2. Choose one or more players whom will be envolved in the combat;
+3. Choose the enemy or enemies in monster's glossary;
+4. Roll all NPC's initiatives;
+5. Make a players request to catch their initiatives;
+6. Pass all turns in order;
+7. Delete from list players or monsters that was killed; 
+8. Finish the combat
