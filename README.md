@@ -1,5 +1,7 @@
 MASTER RPG
+---
 This app has a focus on help initial and advanced RPG master and player to setting up all they need to start a new campaign.
+---
 
 <!-- TOC -->
 
